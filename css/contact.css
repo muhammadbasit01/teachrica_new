@@ -1,0 +1,101 @@
+.discount{
+    background-color:  #04989E;
+    color: white;
+}
+
+.btn-color{
+    background-color: #00C9DA;
+    color: white;
+    border-radius: 20px;
+}
+ .tutor{
+    width: 145px;
+    height: 40px;
+    background-color: #00C9DA;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-size: 20px;
+  }
+ul{
+    list-style: none;
+    
+  }
+  ul li a{
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+  }
+  .box-about{
+    border: 10px solid  #04989E;
+    border-style:ridge;
+    margin-top: 150px;
+    background-color: #d3f1f5;
+  }
+  .contact-us-now{
+    margin-top: 3rem;
+  
+  }
+  .contact-img{
+    display: flex;
+    justify-content: center;
+  
+  
+  }
+  
+  .Name{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #F4F4F4;
+    color: white;
+  
+  }
+  .email{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #F4F4F4;
+    color: white;
+  
+  
+  }
+  
+  .message{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #F4F4F4;
+    color: white;
+    height: 150px;
+  
+  
+  }
+  .submit{
+    margin: 3rem auto 3rem auto;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    
+  }
+  .submit-btn{
+    border-radius: 15px;
+    border: 1px solid black;
+    background-color:#04989E;
+  }
+  .form-container{
+    background-color: #27b3b8;
+    border: 3px solid #04989E;
+    border-radius: 60px;
+   
+  }
+  .footer-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   .footer-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+   }
