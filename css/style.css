@@ -167,8 +167,9 @@ ul li a{
   }
   .Rectangle{
     position: relative;
+    width: 100%;
     opacity: 0.9;
-    margin-left: 1rem;
+    /* margin-left: 1rem; */
     opacity: 0.8;
   }
   .help-box{
