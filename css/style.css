@@ -54,6 +54,20 @@ ul li a{
   font-size: 1.5rem;
   margin-left: 1rem;
 }
+@media only screen and (max-width: 700px) {
+  ul li a{
+    color: white;
+    font-size: 1rem;
+    margin-left: 1rem;
+  }
+}
+@media only screen and (max-width: 596px) {
+  ul li a{
+    color: white;
+    font-size: 0.7rem;
+    margin-left: 1rem;
+  }
+}
 
 /* .video-box{
     border: 18px solid #FFD15C;

@@ -35,6 +35,25 @@ ul{
     background-color: #d3f1f5;
   }
   
+  .box-about{
+    border: 10px solid  #04989E;
+    border-style:ridge;
+    margin-top: 150px;
+    background-color: #d3f1f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .first-paragraph{
+
+    width: 50vw;
+  }
+  .second-paragraph{
+
+    width: 50vw;
+  }
+  
   .footer-row{
     display: flex;
     align-items: center;
