@@ -1,4 +1,7 @@
-.discount{
+ *{
+  outline: 3px solid green;
+ }
+ .discount{
     background-color:  #04989E;
     color: white;
 }
@@ -39,9 +42,9 @@ ul{
     align-items: center;
     justify-content: center;
    }
-   .footer-text{
+   /* .footer-text{
     display: flex;
     align-items: center;
     justify-content: center;
     font-weight: bold;
-   }
+   } */
